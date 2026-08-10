@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF69B4,8A2BE2&height=200&section=header&text=👩‍💻%20Hellen%20Fernandes&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF1493,8A2BE2&height=200&section=header&text=👩‍💻%20Hellen%20Fernandes&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Mulher_em_Tech-FF69B4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Suporte_Técnico-blue?style=for-the-badge"/>
