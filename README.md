@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF1493,8A2BE2&height=200&section=header&text=👩‍💻%20Hellen%20Fernandes&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF1493,8B008B&height=200&section=header&text=👩‍💻%20Hellen%20Fernandes&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 Graduada em **Tecnologia da Computação e Desenvolvimento de Software** nos EUA, com experiência prática auxiliando estudantes em projetos de programação em Java, Python, C, C#, HTML, CSS e MySQL. Fluente em Português, Inglês e Espanhol com experiências em ambientes multiculturais. Busco oportunidades Entry-Level em Suporte Técnico para aplicar e desenvolver meus conhecimentos em ambientes profissionais.
 
@@ -99,7 +99,10 @@ Bacharelado em Administração de Empresas – UNIVALI, Brasil (2008–2012)
 
 Fundamentos de IA: Linguagem e Visão em Inteligência Artificial – IBM SkillsBuild (2026)  
 GitHub Copilot Challenge – Microsoft Americas Azure Team (2025)  
-
+<p align="center">
+  <img src="https://img.shields.io/badge/IBM%20SkillsBuild-FF69B4?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</p>
 ---
 
 
