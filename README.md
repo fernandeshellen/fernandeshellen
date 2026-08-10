@@ -36,7 +36,9 @@ Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, co
 ## 📊 Estatísticas do GitHub
 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=fernandeshellen&show_icons=true&theme=tokyonight)
+
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandeshellen&layout=compact&theme=tokyonight)
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=fernandeshellen&theme=tokyonight)
 
 ---
