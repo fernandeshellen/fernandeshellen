@@ -4,15 +4,13 @@
 
 # 👩‍💻 Hello World! Eu sou a Hellen Fernandes 👋
 
-Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, com experiência prática auxiliando estudantes em projetos de programação em Java, Python, C, C#, HTML, CSS e MySQL. Fluente em Português, Inglês e Espanhol com experiências em ambientes multiculturais. Busco oportunidades Entry-Level em Suporte Técnico para aplicar e desenvolver meus conhecimentos em ambientes profissionais.
-
+Graduada em **Tecnologia da Computação e Desenvolvimento de Software** nos EUA, com experiência prática auxiliando estudantes em projetos de programação em Java, Python, C, C#, HTML, CSS e MySQL. Fluente em Português, Inglês e Espanhol com experiências em ambientes multiculturais. Busco oportunidades Entry-Level em Suporte Técnico para aplicar e desenvolver meus conhecimentos em ambientes profissionais.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Mulher_em_Tech-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mulher_em_Tech-FF69B4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Suporte_Técnico-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Aprendizado_Contínuo-orange?style=for-the-badge"/>
 </p>
-
 ---
 
 ## 🌐 Contato
