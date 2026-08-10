@@ -1,4 +1,4 @@
-## Hello World! Eu sou a Hellen Fernandes 👋
+# 👩‍💻 Hello World! Eu sou a Hellen Fernandes 👋
 
 Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, com experiência prática em suporte técnico auxiliando estudantes em projetos de programação (Java, Python, C, C#, HTML, CSS e MySQL). Fluente em Português, Inglês e Espanhol com experiências em ambientes multiculturais. Busco oportunidades Entry-Level em Suporte Técnico.
 
