@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=👩‍💻%20Hellen%20Fernandes&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=👩‍💻%20Hellen%20Fernandes&fontSize=40&fontColor=39FF14&animation=fadeIn&fontAlignY=35"/>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=👩‍💻%20Hellen%20Fernandes&fontSize=40&fontColor=00FF00&animation=fadeIn&fontAlignY=35"/>
+</p>
+
 Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, com experiência prática auxiliando estudantes em projetos de programação em Java, Python, C, C#, HTML, CSS e MySQL. Fluente em Português, Inglês e Espanhol com experiências em ambientes multiculturais. Busco oportunidades Entry-Level em Suporte Técnico para aplicar e desenvolver meus conhecimentos em ambientes profissionais.
 
 ---
