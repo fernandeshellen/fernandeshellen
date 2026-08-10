@@ -1,9 +1,8 @@
-## Olá, eu sou Hellen Fernandes 👋
+## Hello World! Eu sou a Hellen Fernandes 👋
 
+## Sobre mim
 
-Sou desenvolvedora *Full Stack* com formação internacional em Tecnologia da Computação e Desenvolvimento de Software nos EUA.  
-Tenho experiência prática auxiliando estudantes em projetos de programação e atuando em ambientes multiculturais.  
-Busco oportunidades em *Suporte Técnico e Desenvolvimento, trazendo fluência em **Português, Inglês e Espanhol* e foco em resultados consistentes.
+Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, com experiência prática em suporte técnico auxiliando estudantes em projetos de programação (Java, Python, C, C#, HTML, CSS e MySQL). Fluente em Português, Inglês e Espanhol com experiências em ambientes multiculturais. Busco oportunidades Entry-Level em Suporte Técnico.
 
 ---
 
@@ -46,8 +45,11 @@ Classificada entre as 10 melhores em vendas por atingir metas através de uma co
 
 OUTRAS EXPERIÊNCIAS
 Executiva de Vendas – Wise up – Remoto, Brasil | Aug 2020 – Aug 2025
+
 Assistente Financeira – Dicave Volvo – Itajaí, SC, Brasil | Abr 2012 – Set 2012
+
 Assistente Administrativo – Unimed Litoral – Itajaí, SC, Brasil | Maio 2010 – Dez 2010
+
 Estagiária Gerente Júnior – University of the Itajaí Valley – Itajaí, SC, Brasil | Jul 2008 – Maio 2010
 
 ---
@@ -70,8 +72,7 @@ Estagiária Gerente Júnior – University of the Itajaí Valley – Itajaí, SC
 ## 🌐 Contato
 
 •⁠  ⁠📍 Itajaí, SC, Brasil  
-•⁠  ⁠📧 hef.hellen@gmail.com  
-•⁠  ⁠📱 +55 (47) 99986-7610  
+•⁠  ⁠📧 hef.hellen@gmail.com   
 •⁠  ⁠💼 [LinkedIn](https://linkedin.com/in/fernandeshellen)  
 •⁠  ⁠💻 [GitHub](https://github.com/fernandeshellen)  
 
