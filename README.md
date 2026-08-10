@@ -3,6 +3,7 @@
 Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, com experiência prática em suporte técnico auxiliando estudantes em projetos de programação (Java, Python, C, C#, HTML, CSS e MySQL). Fluente em Português, Inglês e Espanhol com experiências em ambientes multiculturais. Busco oportunidades Entry-Level em Suporte Técnico.
 
 ---
+
 ## 🌐 Contato
 
   <a href="https://linkedin.com/in/fernandeshellen">
@@ -19,6 +20,7 @@ Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, co
     <img src="https://img.shields.io/badge/Location-Itajaí,_SC,_Brasil-green?style=for-the-badge&logo=google-maps&logoColor=white"/>
   </a> 
   </p>
+  
 ---
 
 ## 🚀 Competências Técnicas
