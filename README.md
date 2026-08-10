@@ -16,7 +16,7 @@ Graduada em **Tecnologia da Computação e Desenvolvimento de Software** nos EUA
   <a href="mailto:seuemail@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-    <img src="https://img.shields.io/badge/Localização-Itajaí%2C%20SC%20-%20Brasil-555555?style=for-the-badge&logo=google-maps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Localização-Itaja%C3%AD%2C%20SC%20-%20Brasil-555555?style=for-the-badge&logo=google-maps&logoColor=white"/>
 ---
 
 ## 🚀 Competências Técnicas
