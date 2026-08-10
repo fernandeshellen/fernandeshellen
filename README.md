@@ -33,13 +33,6 @@ Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, co
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=fernandeshellen&theme=radical)
-
----
-
 ## 💼 Experiência Profissional
 
 •⁠  ⁠*Assistente de Laboratório de Programação I – Valencia College (2019–2021)*  
@@ -86,6 +79,13 @@ Estagiária Gerente Júnior – University of the Itajaí Valley – Itajaí, SC
 •⁠  ⁠📧 hef.hellen@gmail.com   
 •⁠  ⁠💼 [LinkedIn](https://linkedin.com/in/fernandeshellen)  
 •⁠  ⁠💻 [GitHub](https://github.com/fernandeshellen)  
+
+---
+
+## 📊 Estatísticas do GitHub
+
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=fernandeshellen&theme=radical)
 
 ---
 
