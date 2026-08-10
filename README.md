@@ -3,6 +3,23 @@
 Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, com experiência prática em suporte técnico auxiliando estudantes em projetos de programação (Java, Python, C, C#, HTML, CSS e MySQL). Fluente em Português, Inglês e Espanhol com experiências em ambientes multiculturais. Busco oportunidades Entry-Level em Suporte Técnico.
 
 ---
+## 🌐 Contato
+
+  <a href="https://linkedin.com/in/fernandeshellen">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hef.hellen@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/fernandeshellen">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <p>
+   <a href="#">
+    <img src="https://img.shields.io/badge/Location-Itajaí,_SC,_Brasil-green?style=for-the-badge&logo=google-maps&logoColor=white"/>
+  </a> 
+  </p>
+---
 
 ## 🚀 Competências Técnicas
 
@@ -76,24 +93,6 @@ GitHub Copilot Challenge – Microsoft Americas Azure Team (2025)
 - [Sistema de Gestão Escolar](https://github.com/seuusuario/projeto1) – Plataforma para gerenciamento de alunos, notas e disciplinas (Java + MySQL).  
 - [API de E-commerce](https://github.com/seuusuario/projeto2) – API RESTful em Python com autenticação JWT e integração com banco de dados.  
 - [Dashboard de Vendas](https://github.com/seuusuario/projeto3) – Visualização interativa de dados de vendas usando HTML, CSS e JavaScript.  
----
-
-## 🌐 Contato
-
-  <a href="https://linkedin.com/in/fernandeshellen">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:hef.hellen@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/fernandeshellen">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <p>
-   <a href="#">
-    <img src="https://img.shields.io/badge/Location-Itajaí,_SC,_Brasil-green?style=for-the-badge&logo=google-maps&logoColor=white"/>
-  </a> 
-  </p>
 ---
 
 ## 📊 Estatísticas do GitHub
