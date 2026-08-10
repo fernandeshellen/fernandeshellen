@@ -50,8 +50,7 @@ Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, co
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50"/>
 </p>
 
-## 📚 Estudando Atualmente
-
+### 📚 Estudando Atualmente
 <p>
   <img src="https://skillicons.dev/icons?i=javascript,react" />
 </p>
