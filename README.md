@@ -9,20 +9,17 @@ Graduada em **Tecnologia da Computação e Desenvolvimento de Software** nos EUA
 
 ## 🌐 Contato
 
-  <a href="https://linkedin.com/in/fernandeshellen">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:hef.hellen@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/fernandeshellen/">
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/fernandeshellen">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <p>
-   <a href="#">
-    <img src="https://img.shields.io/badge/Location-Itajaí,_SC,_Brasil-green?style=for-the-badge&logo=google-maps&logoColor=white"/>
-  </a> 
-  </p>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
   
 ---
 
@@ -107,6 +104,10 @@ GitHub Copilot Challenge – Microsoft Americas Azure Team (2025)
 ## 📊 Estatísticas do GitHub
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=fernandeshellen&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandeshellen&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandeshellen&layout=compact&theme=radical&hide_border=true"/>
+</p>
 
 ---
 
