@@ -50,25 +50,23 @@ Colaborei com TI na implementação de software e reduzi custos operacionais em 
 •⁠  ⁠*Vendedora (J-1 Work and Travel Program) – Universal Orlando Resort (2012–2013)*
 Classificada entre as 10 melhores em vendas por atingir metas através de uma comunicação eficaz.
 
----
+*OUTRAS EXPERIÊNCIAS*
 
-OUTRAS EXPERIÊNCIAS
+•⁠  ⁠Executiva de Vendas – Wise up – Remoto, Brasil | Aug 2020 – Aug 2025
 
-Executiva de Vendas – Wise up – Remoto, Brasil | Aug 2020 – Aug 2025
+•⁠  ⁠Assistente Financeira – Dicave Volvo – Itajaí, SC, Brasil | Abr 2012 – Set 2012
 
-Assistente Financeira – Dicave Volvo – Itajaí, SC, Brasil | Abr 2012 – Set 2012
+•⁠  ⁠Assistente Administrativo – Unimed Litoral – Itajaí, SC, Brasil | Maio 2010 – Dez 2010
 
-Assistente Administrativo – Unimed Litoral – Itajaí, SC, Brasil | Maio 2010 – Dez 2010
-
-Estagiária Gerente Júnior – University of the Itajaí Valley – Itajaí, SC, Brasil | Jul 2008 – Maio 2010
+•⁠  ⁠Estagiária Gerente Júnior – University of the Itajaí Valley – Itajaí, SC, Brasil | Jul 2008 – Maio 2010
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-•⁠  ⁠Bacharelado em Tecnologia da Computação e Desenvolvimento de Software – Valencia College, EUA (2020–2021)  
-•⁠  ⁠Associate of Arts em Ciências da Computação – Valencia College, EUA (2016–2019)  
-•⁠  ⁠Bacharelado em Administração de Empresas – UNIVALI, Brasil (2008–2012)  
+⁠Bacharelado em Tecnologia da Computação e Desenvolvimento de Software – Valencia College, EUA (2020–2021)  
+Associate of Arts em Ciências da Computação – Valencia College, EUA (2016–2019)  
+Bacharelado em Administração de Empresas – UNIVALI, Brasil (2008–2012)  
 
 ---
 
