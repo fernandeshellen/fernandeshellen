@@ -4,9 +4,19 @@ Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, co
 
 ---
 
+## 🌐 Contato
+
+📍 Itajaí, SC, Brasil  
+📧 hef.hellen@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fernandeshellen-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernandeshellen)
+[![Email](https://img.shields.io/badge/Email-hef.hellen%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hef.hellen@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-fernandeshellen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fernandeshellen)
+
+---
+
 ## 🚀 Competências Técnicas
 
-## 💻 Linguagens
+### 💻 Linguagens
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
@@ -16,14 +26,14 @@ Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, co
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/>
 </p>
 
-## 🗄️ Database
+### 🗄️ Database
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50"/>
 </p>
 
-## 🛠️ Ferramentas
+### 🛠️ Ferramentas
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" width="50" height="50"/>
@@ -49,19 +59,16 @@ Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, co
 **Vendedora (J-1 Work and Travel Program) – Universal Orlando Resort (2012–2013)**
 - Classificada entre as 10 melhores em vendas por atingir metas.
 
-**Executiva de Vendas – Wise Up (2020–2025, Remoto)**
-
-**Assistente Financeira – Dicave Volvo (2012)**
-
-**Assistente Administrativo – Unimed Litoral (2010)**
-
-**Estagiária Gerente Júnior – UNIVALI (2008–2010)**
+**Executiva de Vendas – Wise Up (2020–2025, Remoto)**  
+**Assistente Financeira – Dicave Volvo (2012)**  
+**Assistente Administrativo – Unimed Litoral (2010)**  
+**Estagiária Gerente Júnior – UNIVALI (2008–2010)**  
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-⁠Bacharelado em Tecnologia da Computação e Desenvolvimento de Software – Valencia College, EUA (2020–2021)  
+Bacharelado em Tecnologia da Computação e Desenvolvimento de Software – Valencia College, EUA (2020–2021)  
 Associate of Arts em Ciências da Computação – Valencia College, EUA (2016–2019)  
 Bacharelado em Administração de Empresas – UNIVALI, Brasil (2008–2012)  
 
@@ -69,25 +76,26 @@ Bacharelado em Administração de Empresas – UNIVALI, Brasil (2008–2012)
 
 ## 📜 Certificações
 
-⁠Fundamentos de IA: Linguagem e Visão em Inteligência Artificial – IBM SkillsBuild (2026)  
-⁠GitHub Copilot Challenge – Microsoft Americas Azure Team (2025)  
+Fundamentos de IA: Linguagem e Visão em Inteligência Artificial – IBM SkillsBuild (2026)  
+GitHub Copilot Challenge – Microsoft Americas Azure Team (2025)  
 
 ---
 
-## 🌐 Contato
+## 📂 Projetos em Destaque
 
-•⁠  ⁠📍 Itajaí, SC, Brasil  
-•⁠  ⁠📧 hef.hellen@gmail.com   
-•⁠  ⁠💼 [LinkedIn](https://linkedin.com/in/fernandeshellen)  
-•⁠  ⁠💻 [GitHub](https://github.com/fernandeshellen)  
+- [Sistema de Gestão Escolar](https://github.com/seuusuario/projeto1) – Plataforma para gerenciamento de alunos, notas e disciplinas (Java + MySQL).  
+- [API de E-commerce](https://github.com/seuusuario/projeto2) – API RESTful em Python com autenticação JWT e integração com banco de dados.  
+- [Dashboard de Vendas](https://github.com/seuusuario/projeto3) – Visualização interativa de dados de vendas usando HTML, CSS e JavaScript.  
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=fernandeshellen&theme=radical)
 
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=fernandeshellen&color=blue&style=for-the-badge)
+
 
 
