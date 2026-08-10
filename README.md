@@ -35,8 +35,7 @@ Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, co
 
 ## 📊 Estatísticas do GitHub
 
-(https://github-readme-stats.vercel.app/api?username=fernandeshellen&show_icons=true&theme=radical)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandeshellen&layout=compact&theme=radical)
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=fernandeshellen&theme=radical)
 
 ---
