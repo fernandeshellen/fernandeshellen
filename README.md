@@ -1,6 +1,6 @@
 ## Olá, eu sou Hellen Fernandes 👋
 
-<!--
+
 Sou desenvolvedora *Full Stack* com formação internacional em Tecnologia da Computação e Desenvolvimento de Software nos EUA.  
 Tenho experiência prática auxiliando estudantes em projetos de programação e atuando em ambientes multiculturais.  
 Busco oportunidades em *Suporte Técnico e Desenvolvimento, trazendo fluência em **Português, Inglês e Espanhol* e foco em resultados consistentes.
@@ -77,4 +77,4 @@ Estagiária Gerente Júnior – University of the Itajaí Valley – Itajaí, SC
 
 ---
 
--->
+
