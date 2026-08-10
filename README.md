@@ -10,6 +10,7 @@ Graduada em **Tecnologia da Computação e Desenvolvimento de Software** nos EUA
   <a href="#">
     <img src="https://img.shields.io/badge/Location-Itajaí,_SC,_Brasil-green?style=for-the-badge&logo=google-maps&logoColor=white"/>
   </a>
+  
     <a href="https://linkedin.com/in/fernandeshellen">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
