@@ -36,9 +36,7 @@ Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, co
 ## 📊 Estatísticas do GitHub
 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=fernandeshellen&show_icons=true&theme=tokyonight)
-
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandeshellen&layout=compact&theme=tokyonight)
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=fernandeshellen&theme=tokyonight)
 
 ---
@@ -46,7 +44,7 @@ Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, co
 ## 💼 Experiência Profissional
 
 •⁠  ⁠*Assistente de Laboratório de Programação I – Valencia College (2019–2021)*  
-  Apoiei mais de 100 alunos por semestre em projetos de Java, Python, C, C#, MySQL, HTML e CSS, reforçando conceitos de POO, algoritmos e estruturas de dados.  
+  Auxiliei mais de 100 alunos por semestre em projetos de Java, Python, C, C#, MySQL, HTML e CSS, reforçando conceitos de POO, algoritmos e estruturas de dados.  
 
 •⁠  ⁠*Auxiliar de Laboratório de Tecnologia I – Valencia College (2018–2019)*  
   Suporte a estudantes no uso de Microsoft Office e configuração de IDEs.  
