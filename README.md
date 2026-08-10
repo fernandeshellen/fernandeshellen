@@ -4,15 +4,6 @@ Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, co
 
 ---
 
-## 🌐 Contato
-
-📍 Itajaí, SC, Brasil   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernandeshellen)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hef.hellen@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fernandeshellen)
-
----
-
 ## 🚀 Competências Técnicas
 
 ### 💻 Linguagens
@@ -95,6 +86,26 @@ GitHub Copilot Challenge – Microsoft Americas Azure Team (2025)
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fernandeshellen&color=blue&style=for-the-badge)
+
+---
+
+## 🌐 Contato
+
+📍 Itajaí, SC, Brasil  
+
+<p align="center">
+  <a href="https://linkedin.com/in/fernandeshellen">
+    <img src="https://img.shields.io/badge/LinkedInblue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hef.hellen@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/fernandeshellen">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 
 
