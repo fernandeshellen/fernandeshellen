@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=👩‍💻%20Hellen%20Fernandes&fontSize=40&fontColor=39FF14&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://raw.githubusercontent.com/fernandeshellen/fernandeshellen/main/banner.png" alt="Banner Hellen Fernandes"/>
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=👩‍💻%20Hellen%20Fernandes&fontSize=40&fontColor=00FF00&animation=fadeIn&fontAlignY=35"/>
