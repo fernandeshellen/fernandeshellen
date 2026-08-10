@@ -6,11 +6,10 @@ Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, co
 
 ## 🌐 Contato
 
-📍 Itajaí, SC, Brasil  
-📧 hef.hellen@gmail.com  
+📍 Itajaí, SC, Brasil   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernandeshellen)
-[![Email](https://img.shields.io/badge/Email-hef.hellen%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hef.hellen@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-fernandeshellen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fernandeshellen)
+[![Email](https://img.shields.io/badge/EmailD14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hef.hellen@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fernandeshellen)
 
 ---
 
