@@ -6,7 +6,7 @@ Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, co
 
 ## 🚀 Competências Técnicas
 
-## 💻 Linguagens
+## 🚀 Linguagens
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
@@ -14,26 +14,26 @@ Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, co
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/>
+</p>
+
+---
+
+## 🗄️ Database
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50"/>
 </p>
 
+---
+
 ## 🛠️ Ferramentas
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50"/>
 </p>
-
-### Conhecimentos
-![Troubleshooting](https://img.shields.io/badge/Troubleshooting-4CAF50?style=for-the-badge&logo=windows&logoColor=white)
-![Debugging](https://img.shields.io/badge/Debugging-FF9800?style=for-the-badge&logo=bugatti&logoColor=white)
-![POO](https://img.shields.io/badge/POO-9C27B0?style=for-the-badge&logo=java&logoColor=white)
-![Estruturas de Dados](https://img.shields.io/badge/Estruturas%20de%20Dados-2196F3?style=for-the-badge&logo=databricks&logoColor=white)
-
-
 ---
 
 ## 💼 Experiência Profissional
