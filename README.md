@@ -6,6 +6,7 @@ Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, co
 
 ## 🚀 Competências Técnicas
 
+### Linguagens
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -14,16 +15,21 @@ Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, co
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-Ferramentas:
-https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
-https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white
-https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white
-https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white
+### Ferramentas
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-*Conhecimentos:* Troubleshooting, Debugging, Programação Orientada a Objetos, Estruturas de Dados  
+### Conhecimentos
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-4CAF50?style=for-the-badge&logo=windows&logoColor=white)
+![Debugging](https://img.shields.io/badge/Debugging-FF9800?style=for-the-badge&logo=bugatti&logoColor=white)
+![POO](https://img.shields.io/badge/POO-9C27B0?style=for-the-badge&logo=java&logoColor=white)
+![Estruturas de Dados](https://img.shields.io/badge/Estruturas%20de%20Dados-2196F3?style=for-the-badge&logo=databricks&logoColor=white)
+
 
 ---
 
