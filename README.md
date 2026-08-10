@@ -1,6 +1,6 @@
 # 👩‍💻 Hello World! Eu sou a Hellen Fernandes 👋
 
-Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, com experiência prática em suporte técnico auxiliando estudantes em projetos de programação (Java, Python, C, C#, HTML, CSS e MySQL). Fluente em Português, Inglês e Espanhol com experiências em ambientes multiculturais. Busco oportunidades Entry-Level em Suporte Técnico.
+Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, com experiência prática auxiliando estudantes em projetos de programação em Java, Python, C, C#, HTML, CSS e MySQL. Fluente em Português, Inglês e Espanhol com experiências em ambientes multiculturais. Busco oportunidades Entry-Level em Suporte Técnico para aplicar e desenvolver meus conhecimentos em ambientes profissionais.
 
 ---
 
@@ -50,6 +50,19 @@ Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, co
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50"/>
 </p>
 
+## 📚 Estudando Atualmente
+
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,react" />
+</p>
+
+---
+
+## 📂 Projetos em Destaque
+
+- [Sistema de Gestão Escolar](https://github.com/seuusuario/projeto1) – Plataforma para gerenciamento de alunos, notas e disciplinas (Java + MySQL).  
+- [API de E-commerce](https://github.com/seuusuario/projeto2) – API RESTful em Python com autenticação JWT e integração com banco de dados.  
+- [Dashboard de Vendas](https://github.com/seuusuario/projeto3) – Visualização interativa de dados de vendas usando HTML, CSS e JavaScript.  
 ---
 
 ## 💼 Experiência Profissional
@@ -90,12 +103,6 @@ GitHub Copilot Challenge – Microsoft Americas Azure Team (2025)
 
 ---
 
-## 📂 Projetos em Destaque
-
-- [Sistema de Gestão Escolar](https://github.com/seuusuario/projeto1) – Plataforma para gerenciamento de alunos, notas e disciplinas (Java + MySQL).  
-- [API de E-commerce](https://github.com/seuusuario/projeto2) – API RESTful em Python com autenticação JWT e integração com banco de dados.  
-- [Dashboard de Vendas](https://github.com/seuusuario/projeto3) – Visualização interativa de dados de vendas usando HTML, CSS e JavaScript.  
----
 
 ## 📊 Estatísticas do GitHub
 
