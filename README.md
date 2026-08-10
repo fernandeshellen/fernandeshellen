@@ -7,16 +7,18 @@ Graduada em **Tecnologia da Computação e Desenvolvimento de Software** nos EUA
 
 ## 🌐 Contato
 
-<a href="https://www.linkedin.com/in/fernandeshellen/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Location-Itajaí,_SC,_Brasil-green?style=for-the-badge&logo=google-maps&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/fernandeshellen">
+    <img src="https://img.shields.io/badge/LinkedIn-fernandeshellen-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hef.hellen@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hef.hellen%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/fernandeshellen">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-fernandeshellen-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Localização-Itajaí%2C%20SC%20-%20Brasil-009739?style=for-the-badge&logo=google-maps&logoColor=white"/>
 
 ---
 
