@@ -16,14 +16,10 @@ Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, co
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/>
 </p>
 
----
-
 ## 🗄️ Database
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50"/>
 </p>
-
----
 
 ## 🛠️ Ferramentas
 <p align="left">
@@ -34,31 +30,34 @@ Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, co
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50"/>
 </p>
+
 ---
 
 ## 💼 Experiência Profissional
 
-•⁠  ⁠*Assistente de Laboratório de Programação I – Valencia College (2019–2021)*  
-  Auxiliei mais de 100 alunos por semestre em projetos de Java, Python, C, C#, MySQL, HTML e CSS, reforçando conceitos de POO, algoritmos e estruturas de dados.  
+## 💼 Experiência Profissional
 
-•⁠  ⁠*Auxiliar de Laboratório de Tecnologia I – Valencia College (2018–2019)*  
-  Suporte a estudantes no uso de Microsoft Office e configuração de IDEs.  
+**Assistente de Laboratório de Programação I – Valencia College (2019–2021)**
+Auxiliei mais de 100 alunos por semestre em projetos de Java, Python, C, C#, MySQL, HTML e CSS, reforçando conceitos de POO, algoritmos e estruturas de dados.
+Apoiei na configuração e utilização de IDEs (VS Code, Eclipse, IntelliJ IDEA, Xcode).
 
-•⁠  ⁠*Analista Financeira – Mercosul Line, Maersk Group (2014)*  
-Colaborei com TI na implementação de software e reduzi custos operacionais em operações marítimas.  
+**Auxiliar de Laboratório de Tecnologia I – Valencia College (2018–2019)**
+Suporte a estudantes no uso de Microsoft Office (Word, Excel, PowerPoint).
 
-•⁠  ⁠*Vendedora (J-1 Work and Travel Program) – Universal Orlando Resort (2012–2013)*
-Classificada entre as 10 melhores em vendas por atingir metas através de uma comunicação eficaz.
+**Analista Financeira – Mercosul Line, Maersk Group (2014)**
+Colaborei com a equipe de TI na implementação de novo software, reportando falhas e propondo soluções para otimizar processos.
+Gerenciei custos de operações marítimas e despesas portuárias de cinco navios, reduzindo custos operacionais.
 
-*OUTRAS EXPERIÊNCIAS*
+**Vendedora (J-1 Work and Travel Program) – Universal Orlando Resort (2012–2013)**
+- Classificada entre as 10 melhores em vendas por atingir metas através de comunicação eficaz com clientes em ambiente multicultural.
 
-•⁠  ⁠Executiva de Vendas – Wise up – Remoto, Brasil | Aug 2020 – Aug 2025
+**Executiva de Vendas – Wise Up (2020–2025, Remoto)**
 
-•⁠  ⁠Assistente Financeira – Dicave Volvo – Itajaí, SC, Brasil | Abr 2012 – Set 2012
+**Assistente Financeira – Dicave Volvo (2012)**
 
-•⁠  ⁠Assistente Administrativo – Unimed Litoral – Itajaí, SC, Brasil | Maio 2010 – Dez 2010
+**Assistente Administrativo – Unimed Litoral (2010)**
 
-•⁠  ⁠Estagiária Gerente Júnior – University of the Itajaí Valley – Itajaí, SC, Brasil | Jul 2008 – Maio 2010
+**Estagiária Gerente Júnior – UNIVALI (2008–2010)**
 
 ---
 
@@ -72,8 +71,8 @@ Bacharelado em Administração de Empresas – UNIVALI, Brasil (2008–2012)
 
 ## 📜 Certificações
 
-•⁠  ⁠Fundamentos de IA: Linguagem e Visão em Inteligência Artificial – IBM SkillsBuild (2026)  
-•⁠  ⁠GitHub Copilot Challenge – Microsoft Americas Azure Team (2025)  
+⁠Fundamentos de IA: Linguagem e Visão em Inteligência Artificial – IBM SkillsBuild (2026)  
+⁠GitHub Copilot Challenge – Microsoft Americas Azure Team (2025)  
 
 ---
 
