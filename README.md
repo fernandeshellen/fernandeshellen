@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=👩‍💻%20Hellen%20Fernandes&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
-Graduada em **Tecnologia da Computação e Desenvolvimento de Software** nos EUA, com experiência prática auxiliando estudantes em projetos de programação em Java, Python, C, C#, HTML, CSS e MySQL. Fluente em Português, Inglês e Espanhol com experiências em ambientes multiculturais. Busco oportunidades Entry-Level em Suporte Técnico para aplicar e desenvolver meus conhecimentos em ambientes profissionais.
+Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, com experiência prática auxiliando estudantes em projetos de programação em Java, Python, C, C#, HTML, CSS e MySQL. Fluente em Português, Inglês e Espanhol com experiências em ambientes multiculturais. Busco oportunidades Entry-Level em Suporte Técnico para aplicar e desenvolver meus conhecimentos em ambientes profissionais.
 
 ---
 
@@ -10,7 +10,7 @@ Graduada em **Tecnologia da Computação e Desenvolvimento de Software** nos EUA
   <a href="#">
     <img src="https://img.shields.io/badge/Location-Itajaí,_SC,_Brasil-green?style=for-the-badge&logo=google-maps&logoColor=white"/>
   </a>
-  
+  <p>
   <a href="https://linkedin.com/in/fernandeshellen">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -20,6 +20,7 @@ Graduada em **Tecnologia da Computação e Desenvolvimento de Software** nos EUA
   <a href="https://github.com/fernandeshellen">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  </p>
 
 ---
 
