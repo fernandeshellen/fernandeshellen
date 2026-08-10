@@ -76,17 +76,6 @@ GitHub Copilot Challenge – Microsoft Americas Azure Team (2025)
 - [Sistema de Gestão Escolar](https://github.com/seuusuario/projeto1) – Plataforma para gerenciamento de alunos, notas e disciplinas (Java + MySQL).  
 - [API de E-commerce](https://github.com/seuusuario/projeto2) – API RESTful em Python com autenticação JWT e integração com banco de dados.  
 - [Dashboard de Vendas](https://github.com/seuusuario/projeto3) – Visualização interativa de dados de vendas usando HTML, CSS e JavaScript.  
-
----
-
-## 📊 Estatísticas do GitHub
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=fernandeshellen&theme=radical)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=fernandeshellen&color=blue&style=for-the-badge)
-
 ---
 
 ## 🌐 Contato
@@ -106,5 +95,14 @@ GitHub Copilot Challenge – Microsoft Americas Azure Team (2025)
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=fernandeshellen&theme=radical)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=fernandeshellen&color=blue&style=for-the-badge)
+
+---
 
 
