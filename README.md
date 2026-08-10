@@ -59,9 +59,7 @@ Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, co
 
 ## 📂 Projetos em Destaque
 
-- [Sistema de Gestão Escolar](https://github.com/seuusuario/projeto1) – Plataforma para gerenciamento de alunos, notas e disciplinas (Java + MySQL).  
-- [API de E-commerce](https://github.com/seuusuario/projeto2) – API RESTful em Python com autenticação JWT e integração com banco de dados.  
-- [Dashboard de Vendas](https://github.com/seuusuario/projeto3) – Visualização interativa de dados de vendas usando HTML, CSS e JavaScript.  
+
 ---
 
 ## 💼 Experiência Profissional
