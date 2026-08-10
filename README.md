@@ -50,7 +50,10 @@ Colaborei com TI na implementação de software e reduzi custos operacionais em 
 •⁠  ⁠*Vendedora (J-1 Work and Travel Program) – Universal Orlando Resort (2012–2013)*
 Classificada entre as 10 melhores em vendas por atingir metas através de uma comunicação eficaz.
 
+---
+
 OUTRAS EXPERIÊNCIAS
+
 Executiva de Vendas – Wise up – Remoto, Brasil | Aug 2020 – Aug 2025
 
 Assistente Financeira – Dicave Volvo – Itajaí, SC, Brasil | Abr 2012 – Set 2012
