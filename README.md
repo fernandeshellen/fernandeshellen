@@ -37,17 +37,17 @@ Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, co
 
 **Assistente de Laboratório de Programação I – Valencia College (2019–2021)**
 - Auxiliei mais de 100 alunos por semestre em projetos de Java, Python, C, C#, MySQL, HTML e CSS, reforçando conceitos de POO, algoritmos e estruturas de dados.
-- Apoiei na configuração e utilização de IDEs (VS Code, Eclipse, IntelliJ IDEA, Xcode).
+- Orientei na configuração e utilização de IDEs (VS Code, Eclipse, IntelliJ IDEA, Xcode).
 
 **Auxiliar de Laboratório de Tecnologia I – Valencia College (2018–2019)**
-- Suporte a estudantes no uso de Microsoft Office (Word, Excel, PowerPoint).
+- Auxiliei estudantes na utilização do Microsoft Office (Word, Excel, PowerPoint).
 
 **Analista Financeira – Mercosul Line, Maersk Group (2014)**
 - Colaborei com a equipe de TI na implementação de novo software, reportando falhas e propondo soluções para otimizar processos.
 - Gerenciei custos de operações marítimas e despesas portuárias de cinco navios, reduzindo custos operacionais.
 
 **Vendedora (J-1 Work and Travel Program) – Universal Orlando Resort (2012–2013)**
-- Classificada entre as 10 melhores em vendas por atingir metas através de comunicação eficaz com clientes em ambiente multicultural.
+- Classificada entre as 10 melhores em vendas por atingir metas.
 
 **Executiva de Vendas – Wise Up (2020–2025, Remoto)**
 
