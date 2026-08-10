@@ -63,8 +63,8 @@ Estagiária Gerente Júnior – University of the Itajaí Valley – Itajaí, SC
 
 ## 🎓 Formação Acadêmica
 
-•⁠  ⁠Bacharelado em Tecnologia da Computação e Desenvolvimento de Software – EUA (2020–2021)  
-•⁠  ⁠Associate of Arts em Ciências da Computação – EUA (2016–2019)  
+•⁠  ⁠Bacharelado em Tecnologia da Computação e Desenvolvimento de Software – Valencia College, EUA (2020–2021)  
+•⁠  ⁠Associate of Arts em Ciências da Computação – Valencia College, EUA (2016–2019)  
 •⁠  ⁠Bacharelado em Administração de Empresas – UNIVALI, Brasil (2008–2012)  
 
 ---
