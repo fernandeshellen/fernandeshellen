@@ -91,11 +91,9 @@ GitHub Copilot Challenge – Microsoft Americas Azure Team (2025)
 
 ## 🌐 Contato
 
-<p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/Location-Itajaí,_SC,_Brasil-green?style=for-the-badge&logo=google-maps&logoColor=white"/>
   </a>
-<p align="center">
   <a href="https://linkedin.com/in/fernandeshellen">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -105,7 +103,6 @@ GitHub Copilot Challenge – Microsoft Americas Azure Team (2025)
   <a href="https://github.com/fernandeshellen">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
 
 ---
 
