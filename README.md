@@ -34,31 +34,37 @@
 ### ⚙️ Back-end
 [![](https://skillicons.dev/icons?i=java,python,c,cs&theme=dark)](https://skillicons.dev)
 
-Java, Python, C, C#
+<sub>Java, Python, C, C#</sub>
 
 ### 🎨 Front-end
 [![](https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
 
-HTML, CSS
+<sub>HTML, CSS</sub>
 
 ### 🗄️ Databases
 [![](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
 
-MySQL
+<sub>MySQL</sub>
 
 ### 🛠️ Tools & Technologies
 [![](https://skillicons.dev/icons?i=vscode,eclipse,idea,git,github&theme=dark)](https://skillicons.dev)
 
-Visual Studio Code, Eclipse, IntelliJ IDEA, Git, GitHub
+<sub>Visual Studio Code, Eclipse, IntelliJ IDEA, Git, GitHub</sub>
 
 ### 📚 Currently Learning
 [![](https://skillicons.dev/icons?i=js,react&theme=dark)](https://skillicons.dev)
 
-Javascript, React
+<sub>Javascript, React</sub>
 
 ---
 
 ## 📂 Featured Projects
+
+#### 🔢 [Fibonacci FX](https://github.com/fernandeshellen/fibonacci-fx)
+
+JavaFX application that generates Fibonacci sequences through a graphical user interface.
+
+`Java` `JavaFX` `Object-Oriented Programming`
 
 #### 🔤 [Word Counter Java](https://github.com/fernandeshellen/word-counter-java)
 Java application that reads a text file, counts word frequency, and sorts the results.
