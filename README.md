@@ -4,7 +4,6 @@
 Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, com experiência prática auxiliando estudantes em projetos de programação em Java, Python, C, C#, HTML, CSS e MySQL. Fluente em Português, Inglês e Espanhol com experiências em ambientes multiculturais. Busco oportunidades Entry-Level em Suporte Técnico para aplicar e desenvolver meus conhecimentos em ambientes profissionais.
 
 ---
-
 ## 🌐 Contato
 
   <a href="#">
