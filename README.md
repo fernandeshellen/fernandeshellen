@@ -31,8 +31,11 @@
 
 ## 🚀 Technical Skills
 
-### 💻 Programming Languages
-[![](https://skillicons.dev/icons?i=java,python,c,cs,html,css&theme=dark)](https://skillicons.dev)
+### 🎨 Front-end
+[![](https://skillicons.dev/icons?i=html,css,js,react&theme=dark)](https://skillicons.dev)
+
+### ⚙️ Back-end
+[![](https://skillicons.dev/icons?i=java,python,c,cs&theme=dark)](https://skillicons.dev)
 
 ### 🗄️ Databases
 [![](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
