@@ -4,10 +4,11 @@
        width="100%"/>
 </p>
 
-# 👩‍💻 Hello World! Eu sou a Hellen Fernandes 👋
+## 👩‍💻 Hello World! Eu sou a Hellen Fernandes 👋
 <p> Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, com experiência prática auxiliando estudantes em projetos de programação com Java, Python, C, C#, HTML, CSS e MySQL. Fluente em Português, Inglês e Espanhol, com experiência em ambientes multiculturais. Busco oportunidades em Suporte Técnico para aplicar meus conhecimentos em tecnologia, contribuir na resolução de problemas e continuar desenvolvendo minhas habilidades em ambientes profissionais.
 </p>
 ---
+
 ## 🌐 Contato
 
   <a href="#">
