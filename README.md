@@ -10,25 +10,6 @@
 
 ---
 
-## 🌐 Contact
-
-  <a href="#">
-    <img src="https://img.shields.io/badge/Location-Itajaí,_SC,_Brazil-green?style=for-the-badge&logo=google-maps&logoColor=white"/>
-  </a>
-  <p>
-  <a href="https://linkedin.com/in/fernandeshellen">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:hef.hellen@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/fernandeshellen">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  </p>
-
----
-
 ## 🚀 Technical Skills
 
 ### ⚙️ Back-end
@@ -109,4 +90,25 @@ JavaFX application that generates Fibonacci sequences through a graphical user i
 ## 📜 Certifications
 
 - [**AI Fundamentals: Language and Vision in AI**](https://www.credly.com/badges/48c6962f-2b29-479b-84e4-dc6c2be20a38/linked_in_profile) — IBM SkillsBuild (2026)
-- [**GitHub Copilot Challenge**](https://www.credly.com/badges/e7650b1e-8ddb-4798-bef5-6e05f3a2fc01/linked_in_profile) — Microsoft Americas Azure Team (2025)  
+- [**GitHub Copilot Challenge**](https://www.credly.com/badges/e7650b1e-8ddb-4798-bef5-6e05f3a2fc01/linked_in_profile) — Microsoft Americas Azure Team (2025)
+
+---
+
+## 🌐 Contact
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Location-Itajaí,_SC,_Brazil-green?style=for-the-badge&logo=google-maps&logoColor=white"/>
+  </a>
+  <p>
+  <a href="https://linkedin.com/in/fernandeshellen">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hef.hellen@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/fernandeshellen">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  </p>
+
+---
