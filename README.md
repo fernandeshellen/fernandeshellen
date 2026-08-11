@@ -33,28 +33,23 @@
 
 ### ⚙️ Back-end
 [![](https://skillicons.dev/icons?i=java,python,c,cs&theme=dark)](https://skillicons.dev)
-
-<sub>Java, Python, C, C#</sub>
+<sub>Java · Python · C · C#</sub>
 
 ### 🎨 Front-end
 [![](https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
-
-<sub>HTML, CSS</sub>
+<sub>HTML · CSS</sub>
 
 ### 🗄️ Databases
 [![](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
-
 <sub>MySQL</sub>
 
 ### 🛠️ Tools & Technologies
 [![](https://skillicons.dev/icons?i=vscode,eclipse,idea,git,github&theme=dark)](https://skillicons.dev)
-
-<sub>Visual Studio Code, Eclipse, IntelliJ IDEA, Git, GitHub</sub>
+<sub>Visual Studio Code · Eclipse · IntelliJ IDEA · Git · GitHub</sub>
 
 ### 📚 Currently Learning
 [![](https://skillicons.dev/icons?i=js,react&theme=dark)](https://skillicons.dev)
-
-<sub>Javascript, React</sub>
+<sub>JavaScript · React</sub>
 
 ---
 
