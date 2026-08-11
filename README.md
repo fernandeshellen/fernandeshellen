@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fernandeshellen/fernandeshellen/main/banner.png" alt="Banner Hellen Fernandes"/>
+  <img src="https://raw.githubusercontent.com/fernandeshellen/fernandeshellen/main/banner.png" 
+       alt="Banner Hellen Fernandes"
+       width="100%"/>
 </p>
 Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, com experiência prática auxiliando estudantes em projetos de programação em Java, Python, C, C#, HTML, CSS e MySQL. Fluente em Português, Inglês e Espanhol com experiências em ambientes multiculturais. Busco oportunidades Entry-Level em Suporte Técnico para aplicar e desenvolver meus conhecimentos em ambientes profissionais.
 
