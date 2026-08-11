@@ -92,7 +92,6 @@ GitHub Copilot Challenge – Microsoft Americas Azure Team (2025)
 
 ---
 
-
 ## 📊 Estatísticas do GitHub
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandeshellen&theme=radical&hide_border=true"/>
