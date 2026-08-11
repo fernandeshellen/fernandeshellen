@@ -4,16 +4,16 @@
        width="100%"/>
 </p>
 
-## 👩‍💻 Hello World! Eu sou a Hellen Fernandes 👋
-<p> Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, com experiência prática auxiliando estudantes em projetos de programação com Java, Python, C, C#, HTML, CSS e MySQL. Fluente em Português, Inglês e Espanhol, com experiência em ambientes multiculturais. Busco oportunidades em Suporte Técnico para aplicar meus conhecimentos em tecnologia, contribuir na resolução de problemas e continuar desenvolvendo minhas habilidades em ambientes profissionais.
+## 👩‍💻 Hello World! I'm Hellen Fernandes 👋
+<p> Graduated in Computing Technology and Software Development in the United States. International experience in the USA as a programming tutor, supporting students with Java, Python, C, C#, HTML, CSS, and MySQL academic projects. Strong analytical thinking, attention to detail, and problem-solving skills. Fluent in Portuguese, English, and Spanish, with a strong background in multicultural environments. Currently seeking opportunities in Technical Support to apply my knowledge and continue developing my skills in technology. 
 </p>
 
 ---
 
-## 🌐 Contato
+## 🌐 Contact
 
   <a href="#">
-    <img src="https://img.shields.io/badge/Location-Itajaí,_SC,_Brasil-green?style=for-the-badge&logo=google-maps&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Location-Itajaí,_SC,_Brazil-green?style=for-the-badge&logo=google-maps&logoColor=white"/>
   </a>
   <p>
   <a href="https://linkedin.com/in/fernandeshellen">
@@ -29,67 +29,66 @@
 
 ---
 
-## 🚀 Competências Técnicas
+## 🚀 Technical Skills
 
-### 💻 Linguagens
+### 💻 Programming Languages
 [![](https://skillicons.dev/icons?i=java,python,c,cs,html,css&theme=dark)](https://skillicons.dev)
 
-### 🗄️ Banco de Dados
+### 🗄️ Databases
 [![](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
 
-### 🛠️ Ferramentas
+### 🛠️ Tools & Technologies
 [![](https://skillicons.dev/icons?i=vscode,eclipse,idea,git,github&theme=dark)](https://skillicons.dev)
 
-### 📚 Estudando Atualmente
+### 📚 Currently Learning
 [![](https://skillicons.dev/icons?i=js,react&theme=dark)](https://skillicons.dev)
 
 ---
 
-## 📂 Projetos em Destaque
+## 📂 Featured Projects
 
-#### 🔤 [Words Counter](https://github.com/fernandeshellen/word-counter-java)
-Projeto desenvolvido em Java para contagem de palavras em um arquivo de texto.
+#### 🔤 [Word Counter](https://github.com/fernandeshellen/word-counter-java)
+Java application that reads a text file, counts word frequency, and sorts the results.
 
-`Java` `JavaFX` `POO`
+`Java` `Collections` `HashMap` `Stream API` `File I/O`
 
-#### 🔤 [GUI Words Counter](https://github.com/fernandeshellen/GUIWordsCounter)
-Projeto desenvolvido em Java para contagem de palavras em um texto, com aplicação de interface gráfica.
+#### 🔤 [GUI Word Counter](https://github.com/fernandeshellen/GUIWordCounter)
+Java application that reads a text file and counts word frequency through a graphical user interface.
 
-`Java` `JavaFX` `POO`
-
----
-
-## 💼 Experiência Profissional
-
-**Assistente de Laboratório de Programação I – Valencia College (2019–2021)**
-- Auxiliei mais de 100 alunos por semestre em projetos de Java, Python, C, C#, MySQL, HTML e CSS, reforçando conceitos de POO, algoritmos e estruturas de dados.
-- Orientei na configuração e utilização de IDEs (VS Code, Eclipse, IntelliJ IDEA, Xcode).
-
-**Auxiliar de Laboratório de Tecnologia I – Valencia College (2018–2019)**
-- Auxiliei estudantes na utilização do Microsoft Office (Word, Excel, PowerPoint).
-
-**Analista Financeira – Mercosul Line, Maersk Group (2014)**
-- Colaborei com a equipe de TI na implementação de novo software, reportando falhas e propondo soluções para otimizar processos.
-- Gerenciei custos de operações marítimas e despesas portuárias de cinco navios, reduzindo custos operacionais.
+`Java` `JavaFX` `Object-Oriented Programming`
 
 ---
 
-## 🎓 Formação Acadêmica
+## 💼 Professional Experience
 
-Bacharelado em Tecnologia da Computação e Desenvolvimento de Software – Valencia College, EUA (2020–2021)  
-Associate of Arts em Ciências da Computação – Valencia College, EUA (2016–2019)  
-Bacharelado em Administração de Empresas – UNIVALI, Brasil (2008–2012)  
+**Programming Lab Assistant I – Valencia College (2019–2021)**
+- Assisted more than 100 students per semester with Java, C, C#, Python, MySQL, HTML, and CSS, reinforcing concepts in object-oriented programming, algorithms, and data structures.
+- Assisted students with the setup and use of VS Code, Eclipse, IntelliJ IDEA, and Xcode.
+
+**Technology Lab Aide I – Valencia College (2018–2019)**
+- Assisted students with Microsoft Office (Word, Excel, and PowerPoint).
+
+**Financial Analyst – Mercosul Line, Maersk Group (2014)**
+- Collaborated with IT to implement new software by identifying issues and providing information to support solutions while managing financial data of five ships' operations and port expenses, contributing to reducing costs.
 
 ---
 
-## 📜 Certificações
+## 🎓 Education
+
+**Bachelor's Degree in Computing Technology and Software Development** – Valencia College, USA (2020–2021)  
+**Associate of Arts in Computer Science** – Valencia College, USA (2016–2019)  
+**Bachelor's Degree in Business Administration** – UNIVALI, Brazil (2008–2012)
+
+---
+
+## 📜 Certifications
 
 - [**AI Fundamentals: Language and Vision in AI**](https://www.credly.com/badges/48c6962f-2b29-479b-84e4-dc6c2be20a38/linked_in_profile) — IBM SkillsBuild (2026)
 - [**GitHub Copilot Challenge**](https://www.credly.com/badges/e7650b1e-8ddb-4798-bef5-6e05f3a2fc01/linked_in_profile) — Microsoft Americas Azure Team (2025)  
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandeshellen&theme=github-dark&hide_border=true"/>
 
