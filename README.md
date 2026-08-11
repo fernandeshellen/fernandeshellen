@@ -32,6 +32,17 @@
 ## 🚀 Competências Técnicas
 
 ### 💻 Linguagens
+[![](https://skillicons.dev/icons?i=java,python,c,csharp,html,css&theme=dark)](https://skillicons.dev)
+
+### 🗄️ Banco de Dados
+[![](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
+
+### 🛠️ Ferramentas
+[![](https://skillicons.dev/icons?i=vscode,eclipse,idea,xcode,git,github&theme=dark)](https://skillicons.dev)
+
+### 📚 Estudando Atualmente
+[![](https://skillicons.dev/icons?i=js,react&theme=dark)](https://skillicons.dev)
+--> ### 💻 Linguagens
 Java · Python · C · C# · HTML · CSS
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
@@ -64,7 +75,7 @@ Javascript · React
 <p>
   <img src="https://skillicons.dev/icons?i=javascript,react" />
 </p>
-
+--->
 ---
 
 ## 📂 Projetos em Destaque
