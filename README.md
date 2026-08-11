@@ -70,6 +70,11 @@ Java application that reads a text file and counts word frequency through a grap
 
 `Java` `JavaFX` `Object-Oriented Programming`
 
+#### 🔤 [Currency Rate Tracker](https://github.com/fernandeshellen/currency-rate-tracker)
+Python application that retrieves currency exchange rate data and stores it in a MySQL database.
+
+`Python` `MySQL` `SQL` `CSV` `JSON` 
+
 ---
 
 ## 💼 Professional Experience
