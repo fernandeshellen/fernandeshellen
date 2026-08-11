@@ -123,10 +123,15 @@ JavaFX application that generates Fibonacci sequences through a graphical user i
 
 ## 📊 GitHub Stats
 
+---
+
+## 📊 GitHub Stats
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=fernandeshellen&theme=github-dark)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fernandeshellen&theme=github-dark)
 
 ---
+
 
 
