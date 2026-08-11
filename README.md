@@ -32,7 +32,7 @@
 ## 🚀 Competências Técnicas
 
 ### 💻 Linguagens
-[![](https://skillicons.dev/icons?i=java,python,c,csharp,html,css&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=java,python,c,cs,html,css&theme=dark)](https://skillicons.dev)
 
 ### 🗄️ Banco de Dados
 [![](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
@@ -42,40 +42,7 @@
 
 ### 📚 Estudando Atualmente
 [![](https://skillicons.dev/icons?i=js,react&theme=dark)](https://skillicons.dev)
---> ### 💻 Linguagens
-Java · Python · C · C# · HTML · CSS
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/>
-</p>
 
-### 🗄️ Banco de Dados
-MySQL
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50"/>
-</p>
-
-### 🛠️ Ferramentas
-VS Code · Eclipse · IntelliJ IDEA · Xcode · Git · GitHub
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50"/>
-</p>
-
-### 📚 Estudando Atualmente
-Javascript · React
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,react" />
-</p>
---->
 ---
 
 ## 📂 Projetos em Destaque
