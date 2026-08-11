@@ -33,7 +33,7 @@
 
 ### ⚙️ Back-end
 [![](https://skillicons.dev/icons?i=java,python,c,cs&theme=dark)](https://skillicons.dev)
-<sub>Java · Python · C · C#</sub>
+<br><sub>Java · Python · C · C#</sub>
 
 ### 🎨 Front-end
 [![](https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
