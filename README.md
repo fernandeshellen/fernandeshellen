@@ -69,7 +69,7 @@ Javascript · React
 
 ## 📂 Projetos em Destaque
 
-### 🔤 [GUI Words Counter](https://github.com/fernandeshellen/GUIWordsCounter)
+#### 🔤 [GUI Words Counter](https://github.com/fernandeshellen/GUIWordsCounter)
 Projeto desenvolvido em Java para contagem de palavras em um texto com aplicação de interface gráfica.
 `Java` `Swing/AWT` `POO`
 
