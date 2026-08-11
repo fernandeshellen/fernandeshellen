@@ -62,10 +62,12 @@ Javascript, React
 
 #### 🔤 [Word Counter Java](https://github.com/fernandeshellen/word-counter-java)
 Java application that reads a text file, counts word frequency, and sorts the results.
+
 `Java` `Collections` `HashMap` `Stream API` `File I/O`
 
 #### 🔤 [Word Counter GUI](https://github.com/fernandeshellen/word-counter-gui)
 Java application that reads a text file and counts word frequency through a graphical user interface.
+
 `Java` `JavaFX` `Object-Oriented Programming`
 
 ---
