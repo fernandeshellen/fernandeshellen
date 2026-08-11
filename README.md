@@ -110,13 +110,3 @@ JavaFX application that generates Fibonacci sequences through a graphical user i
 
 - [**AI Fundamentals: Language and Vision in AI**](https://www.credly.com/badges/48c6962f-2b29-479b-84e4-dc6c2be20a38/linked_in_profile) — IBM SkillsBuild (2026)
 - [**GitHub Copilot Challenge**](https://www.credly.com/badges/e7650b1e-8ddb-4798-bef5-6e05f3a2fc01/linked_in_profile) — Microsoft Americas Azure Team (2025)  
-
----
-
-## 📊 GitHub Stats
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandeshellen&theme=github-dark&hide_border=true"/>
-
----
-
-
