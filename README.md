@@ -51,7 +51,7 @@ Java application that reads a text file and counts word frequency through a grap
 
 `Java` `JavaFX` `Object-Oriented Programming`
 
-#### 🧵 [Parallel Array Sum](https://github.com/fernandeshellen/parallel-array-sum-java)
+#### 🔤 [Parallel Array Sum](https://github.com/fernandeshellen/parallel-array-sum-java)
 
 Java application that compares single-threaded and multithreaded approaches to summing a large array, using multiple threads to process different portions of the data in parallel.
 
