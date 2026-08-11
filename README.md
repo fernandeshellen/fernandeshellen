@@ -118,6 +118,7 @@ JavaFX application that generates Fibonacci sequences through a graphical user i
     <a href="#">
     <img src="https://img.shields.io/badge/Location-Itajaí,_SC,_Brazil-green?style=for-the-badge&logo=google-maps&logoColor=white"/>
   </a>
+
 ---
 
 ## 📊 GitHub Stats
