@@ -59,7 +59,7 @@ Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, co
 
 ## 📂 Projetos em Destaque
 
-
+Em construção... 
 ---
 
 ## 💼 Experiência Profissional
@@ -74,14 +74,6 @@ Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, co
 **Analista Financeira – Mercosul Line, Maersk Group (2014)**
 - Colaborei com a equipe de TI na implementação de novo software, reportando falhas e propondo soluções para otimizar processos.
 - Gerenciei custos de operações marítimas e despesas portuárias de cinco navios, reduzindo custos operacionais.
-
-**Vendedora (J-1 Work and Travel Program) – Universal Orlando Resort (2012–2013)**
-- Classificada entre as 10 melhores em vendas por atingir metas.
-
-**Executiva de Vendas – Wise Up (2020–2025, Remoto)**  
-**Assistente Financeira – Dicave Volvo (2012)**  
-**Assistente Administrativo – Unimed Litoral (2010)**  
-**Estagiária Gerente Júnior – UNIVALI (2008–2010)**  
 
 ---
 
