@@ -65,7 +65,8 @@ VS Code · Eclipse · IntelliJ IDEA · Xcode · Git · GitHub
 
 ## 📂 Projetos em Destaque
 
-Em construção... 
+*Em construção...*
+
 ---
 
 ## 💼 Experiência Profissional
