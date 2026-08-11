@@ -47,6 +47,11 @@
 
 ## 📂 Projetos em Destaque
 
+#### 🔤 [Words Counter](https://github.com/fernandeshellen/word-counter-java)
+Projeto desenvolvido em Java para contagem de palavras em um arquivo de texto.
+
+`Java` `JavaFX` `POO`
+
 #### 🔤 [GUI Words Counter](https://github.com/fernandeshellen/GUIWordsCounter)
 Projeto desenvolvido em Java para contagem de palavras em um texto, com aplicação de interface gráfica.
 
