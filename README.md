@@ -3,7 +3,8 @@
        alt="Banner Hellen Fernandes"
        width="100%"/>
 </p>
-Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, com experiência prática auxiliando estudantes em projetos de programação em Java, Python, C, C#, HTML, CSS e MySQL. Fluente em Português, Inglês e Espanhol com experiências em ambientes multiculturais. Busco oportunidades Entry-Level em Suporte Técnico para aplicar e desenvolver meus conhecimentos em ambientes profissionais.
+👩‍💻 Hello World! Eu sou a Hellen Fernandes 👋
+Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, com experiência prática auxiliando estudantes em projetos de programação com Java, Python, C, C#, HTML, CSS e MySQL. Fluente em Português, Inglês e Espanhol, com experiência em ambientes multiculturais. Busco oportunidades em Suporte Técnico para aplicar meus conhecimentos em tecnologia, contribuir na resolução de problemas e continuar desenvolvendo minhas habilidades em ambientes profissionais.
 
 ---
 ## 🌐 Contato
@@ -28,6 +29,7 @@ Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, co
 ## 🚀 Competências Técnicas
 
 ### 💻 Linguagens
+Java · Python · C · C# · HTML · CSS
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
@@ -37,12 +39,14 @@ Graduada em Tecnologia da Computação e Desenvolvimento de Software nos EUA, co
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/>
 </p>
 
-### 🗄️ Database
+### 🗄️ Banco de Dados
+MySQL
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50"/>
 </p>
 
 ### 🛠️ Ferramentas
+VS Code · Eclipse · IntelliJ IDEA · Xcode · Git · GitHub
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="50" height="50"/>
@@ -89,18 +93,14 @@ Bacharelado em Administração de Empresas – UNIVALI, Brasil (2008–2012)
 
 ## 📜 Certificações
 
-Fundamentos de IA: Linguagem e Visão em Inteligência Artificial – IBM SkillsBuild (2026)  
-GitHub Copilot Challenge – Microsoft Americas Azure Team (2025)  
+- [**AI Fundamentals: Language and Vision in AI**](https://www.credly.com/badges/48c6962f-2b29-479b-84e4-dc6c2be20a38/linked_in_profile) — IBM SkillsBuild (2026)
+- [**GitHub Copilot Challenge**](https://www.credly.com/badges/e7650b1e-8ddb-4798-bef5-6e05f3a2fc01/linked_in_profile) — Microsoft Americas Azure Team (2025)  
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandeshellen&theme=github-dark&hide_border=true"/>
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=fernandeshellen&color=blue&style=for-the-badge)
 
 ---
 
