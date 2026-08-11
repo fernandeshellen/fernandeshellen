@@ -31,14 +31,14 @@
 
 ## 🚀 Technical Skills
 
-### 🎨 Front-end
-[![](https://skillicons.dev/icons?i=html,css,js,react&theme=dark)](https://skillicons.dev)
-
 ### ⚙️ Back-end
 [![](https://skillicons.dev/icons?i=java,python,c,cs&theme=dark)](https://skillicons.dev)
 
+### 🎨 Front-end
+[![](https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
+
 ### 🗄️ Databases
-[![](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=mysql,sql&theme=dark)](https://skillicons.dev)
 
 ### 🛠️ Tools & Technologies
 [![](https://skillicons.dev/icons?i=vscode,eclipse,idea,git,github&theme=dark)](https://skillicons.dev)
