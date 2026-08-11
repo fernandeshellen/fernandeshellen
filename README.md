@@ -38,7 +38,7 @@
 [![](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas
-[![](https://skillicons.dev/icons?i=vscode,eclipse,idea,xcode,git,github&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=vscode,eclipse,idea,git,github&theme=dark)](https://skillicons.dev)
 
 ### 📚 Estudando Atualmente
 [![](https://skillicons.dev/icons?i=js,react&theme=dark)](https://skillicons.dev)
