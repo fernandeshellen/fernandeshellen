@@ -55,11 +55,10 @@
 
 ## 📂 Featured Projects
 
-#### 🔢 [Fibonacci FX](https://github.com/fernandeshellen/fibonacci-fx)
+#### 🔤 [Currency Rate Tracker](https://github.com/fernandeshellen/currency-rate-tracker)
+Python application that retrieves currency exchange rate data and stores it in a MySQL database.
 
-JavaFX application that generates Fibonacci sequences through a graphical user interface.
-
-`Java` `JavaFX` `Object-Oriented Programming`
+`Python` `MySQL` `SQL` `CSV` `JSON` 
 
 #### 🔤 [Word Counter Java](https://github.com/fernandeshellen/word-counter-java)
 Java application that reads a text file, counts word frequency, and sorts the results.
@@ -71,10 +70,11 @@ Java application that reads a text file and counts word frequency through a grap
 
 `Java` `JavaFX` `Object-Oriented Programming`
 
-#### 🔤 [Currency Rate Tracker](https://github.com/fernandeshellen/currency-rate-tracker)
-Python application that retrieves currency exchange rate data and stores it in a MySQL database.
+#### 🔢 [Fibonacci FX](https://github.com/fernandeshellen/fibonacci-fx)
 
-`Python` `MySQL` `SQL` `CSV` `JSON` 
+JavaFX application that generates Fibonacci sequences through a graphical user interface.
+
+`Java` `JavaFX` `Object-Oriented Programming`
 
 ---
 
