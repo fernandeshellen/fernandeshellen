@@ -5,7 +5,7 @@
 </p>
 
 ## 👩‍💻 Hello World! I'm Hellen Fernandes 👋
-<p> Graduated in Computing Technology and Software Development in the United States. International experience in the USA as a programming tutor, supporting students with Java, Python, C, C#, HTML, CSS, and MySQL academic projects. Strong analytical thinking, attention to detail, and problem-solving skills. Fluent in Portuguese, English, and Spanish, with a strong background in multicultural environments. Currently seeking opportunities in Technical Support to apply my knowledge and continue developing my skills in technology. 
+<p> Graduated in Computing Technology and Software Development in the United States. International experience in the USA as a programming tutor, supporting students with Java, Python, C, C#, HTML, CSS, and MySQL. Strong analytical thinking, attention to detail, and problem-solving skills. Fluent in Portuguese, English, and Spanish, with a strong background in multicultural environments. Currently seeking opportunities in Technical Support to apply my knowledge and continue developing my skills in technology. 
 </p>
 
 ---
