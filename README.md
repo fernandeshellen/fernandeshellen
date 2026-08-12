@@ -67,14 +67,14 @@ JavaFX application that generates Fibonacci sequences through a graphical user i
 
 ## 💼 Professional Experience
 
-**Programming Lab Assistant I – Valencia College (2019–2021)**
+**Programming Lab Assistant I – Valencia College, USA (2019–2021)**
 - Assisted more than 100 students per semester with Java, C, C#, Python, MySQL, HTML, and CSS, reinforcing concepts in object-oriented programming, algorithms, and data structures.
-- Assisted students with the setup and use of VS Code, Eclipse, IntelliJ IDEA, and Xcode.
+- Supported students with the setup and use of VS Code, Eclipse, IntelliJ IDEA, and Xcode.
 
-**Technology Lab Aide I – Valencia College (2018–2019)**
+**Technology Lab Aide I – Valencia College, USA (2018–2019)**
 - Assisted students with Microsoft Office (Word, Excel, and PowerPoint).
 
-**Financial Analyst – Mercosul Line, Maersk Group (2014)**
+**Financial Analyst – Mercosul Line - Maersk Group, Brazil (2014)**
 - Collaborated with IT to implement new software by identifying issues and providing information to support solutions while managing financial data of five ships' operations and port expenses, contributing to reducing costs.
 
 ---
