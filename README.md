@@ -122,8 +122,8 @@ JavaFX application that generates Fibonacci sequences through a graphical user i
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fernandeshellen&theme=github_dark"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandeshellen&theme=github_dark"/>
+<img width="25%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fernandeshellen&theme=github_dark"/>
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandeshellen&theme=github_dark"/>
 
 </div>
 
