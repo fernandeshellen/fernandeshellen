@@ -123,11 +123,20 @@ JavaFX application that generates Fibonacci sequences through a graphical user i
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=fernandeshellen&theme=github-dark)
+<div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fernandeshellen&theme=github-dark)
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandeshellen&theme=github_dark"/>
 
----
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fernandeshellen&theme=github_dark"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fernandeshellen&theme=github_dark"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fernandeshellen&theme=github_dark"/>
+
+<img src="https://streak-stats.demolab.com?user=fernandeshellen&hide_border=true&ring=FFC800&fire=FFC800&currStreakLabel=FFC800&sideNums=00bfbf&sideLabels=00bfbf&dates=00bfbf&currStreakNum=00bfbf&background=0d1117"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandeshellen&theme=github-dark"/>
+
+</div>
+
 
 
 
