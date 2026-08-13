@@ -4,29 +4,34 @@
        width="100%"/>
 </p>
 
-## 👩‍💻 Hello World! I'm Hellen Fernandes 👋
-<p> Graduated in Computing Technology and Software Development in the United States. International experience in the USA as a programming tutor, supporting students with Java, Python, C, C#, HTML, CSS, and MySQL. Strong analytical thinking, attention to detail, and problem-solving skills. Fluent in Portuguese, English, and Spanish, with a strong background in multicultural environments. Currently seeking opportunities in Technical Support to apply my knowledge and continue developing my skills in technology. 
+## 👩‍💻 Hello World! 👋
+<p>
+I hold a Bachelor's degree in Computing Technology and Software Development from Valencia College in the United States, with international experience as a Programming Lab Assistant supporting students with Java, Python, C, C#, HTML, CSS, and MySQL. Fluent in Portuguese, English, and Spanish. I am currently seeking opportunities in Technical Support to apply my technical knowledge and problem-solving skills while continuing to grow in technology.
 </p>
 
 ---
 
 ## 🚀 Technical Skills
 
-### ⚙️ Back-end
+### ⚙️ Programming Languages
 [![](https://skillicons.dev/icons?i=java,python,c,cs&theme=dark)](https://skillicons.dev)
 <br><sub>Java · Python · C · C#</sub>
 
-### 🎨 Front-end
+### 🎨 Web Technologies
 [![](https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
 <br><sub>HTML · CSS</sub>
 
-### 🗄️ Databases
+### 🗄️ Databases & SQL
 [![](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
-<br><sub>MySQL</sub>
+<br><sub>MySQL · SQL</sub>
 
-### 🛠️ Tools & Technologies
-[![](https://skillicons.dev/icons?i=vscode,eclipse,idea,git,github&theme=dark)](https://skillicons.dev)
-<br><sub>Visual Studio Code · Eclipse · IntelliJ IDEA · Git · GitHub</sub>
+### 🛠️ Development Tools
+[![](https://skillicons.dev/icons?i=vscode,eclipse,idea,xcode&theme=dark)](https://skillicons.dev)
+<br><sub>Visual Studio Code · Eclipse · IntelliJ IDEA · Xcode</sub>
+
+### 🔄 Version Control
+[![](https://skillicons.dev/icons?i=git,github&theme=dark)](https://skillicons.dev)
+<br><sub>Git · GitHub</sub>
 
 ### 📚 Currently Learning
 [![](https://skillicons.dev/icons?i=js,react&theme=dark)](https://skillicons.dev)
@@ -34,48 +39,43 @@
 
 ---
 
+## 💼 Professional Experience
+
+**Programming Lab Assistant I – Valencia College, USA (2019–2021)**
+- Supported more than 100 students per semester with Java, C, C#, Python, MySQL, HTML, and CSS, reinforcing concepts in object-oriented programming, algorithms, and data structures.
+- Provided technical assistance with the setup and use of VS Code, Eclipse, IntelliJ IDEA, and Xcode.
+
+**Technology Lab Aide I – Valencia College, USA (2018–2019)**
+- Supported students with Microsoft Office (Word, Excel, and PowerPoint).
+
+**Financial Analyst – Mercosul Line - Maersk Group, Brazil (2014)**
+- Collaborated with IT to implement new software by identifying issues and providing information to support solutions while managing financial data related to the operations of five ships and port expenses, contributing to cost reduction.
+
+---
+
 ## 📂 Featured Projects
 
-#### 🔤 [Currency Rate Tracker](https://github.com/fernandeshellen/currency-rate-tracker)
+#### [Currency Rate Tracker](https://github.com/fernandeshellen/currency-rate-tracker)
 Python application that retrieves currency exchange rate data and stores it in a MySQL database.
 
 `Python` `MySQL` `SQL` `CSV` `JSON` 
 
-#### 🔤 [Word Counter Java](https://github.com/fernandeshellen/word-counter-java)
-Java application that reads a text file, counts word frequency, and sorts the results.
-
-`Java` `Collections` `HashMap` `Stream API` `File I/O`
-
-#### 🔤 [Word Counter GUI](https://github.com/fernandeshellen/word-counter-gui)
-Java application that reads a text file and counts word frequency through a graphical user interface.
-
-`Java` `JavaFX` `Object-Oriented Programming`
-
-#### 🔤 [Parallel Array Sum](https://github.com/fernandeshellen/parallel-array-sum-java)
+#### [Parallel Array Sum](https://github.com/fernandeshellen/parallel-array-sum-java)
 
 Java application that compares single-threaded and multithreaded approaches to summing a large array, using multiple threads to process different portions of the data in parallel.
 
 `Java` `Multithreading` `Threads` `Parallel Processing`
 
-#### 🔢 [Fibonacci FX](https://github.com/fernandeshellen/fibonacci-fx)
+#### [Word Counter GUI](https://github.com/fernandeshellen/word-counter-gui)
+Java application that reads a text file and counts word frequency through a graphical user interface.
+
+`Java` `JavaFX` `Object-Oriented Programming`
+
+#### [Fibonacci FX](https://github.com/fernandeshellen/fibonacci-fx)
 
 JavaFX application that generates Fibonacci sequences through a graphical user interface.
 
 `Java` `JavaFX` `Object-Oriented Programming`
-
----
-
-## 💼 Professional Experience
-
-**Programming Lab Assistant I – Valencia College, USA (2019–2021)**
-- Assisted more than 100 students per semester with Java, C, C#, Python, MySQL, HTML, and CSS, reinforcing concepts in object-oriented programming, algorithms, and data structures.
-- Supported students with the setup and use of VS Code, Eclipse, IntelliJ IDEA, and Xcode.
-
-**Technology Lab Aide I – Valencia College, USA (2018–2019)**
-- Assisted students with Microsoft Office (Word, Excel, and PowerPoint).
-
-**Financial Analyst – Mercosul Line - Maersk Group, Brazil (2014)**
-- Collaborated with IT to implement new software by identifying issues and providing information to support solutions while managing financial data of five ships' operations and port expenses, contributing to reducing costs.
 
 ---
 
@@ -115,9 +115,6 @@ JavaFX application that generates Fibonacci sequences through a graphical user i
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   </p>
-    <a href="#">
-    <img src="https://img.shields.io/badge/Location-Itajaí,_SC,_Brazil-green?style=for-the-badge&logo=google-maps&logoColor=white"/>
-  </a>
 
 ---
 
@@ -125,18 +122,9 @@ JavaFX application that generates Fibonacci sequences through a graphical user i
 
 <div align="center">
 
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fernandeshellen&theme=github_dark"/>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandeshellen&theme=github_dark"/>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fernandeshellen&theme=github_dark"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fernandeshellen&theme=github_dark"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fernandeshellen&theme=github_dark"/>
-
-<img src="https://streak-stats.demolab.com?user=fernandeshellen&hide_border=true&ring=FFC800&fire=FFC800&currStreakLabel=FFC800&sideNums=00bfbf&sideLabels=00bfbf&dates=00bfbf&currStreakNum=00bfbf&background=0d1117"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandeshellen&theme=github-dark"/>
-
 </div>
-
-
 
 
