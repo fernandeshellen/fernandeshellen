@@ -4,9 +4,7 @@
        width="100%"/>
 </p>
 
-## 👩‍💻 Hello World! 👋
-
-I hold a Bachelor's degree in Computing Technology and Software Development from Valencia College in the United States, with international experience as a Programming Lab Assistant supporting students with Java, Python, C, C#, HTML, CSS, and MySQL. Fluent in Portuguese, English, and Spanish. I am currently seeking opportunities in Technical Support to apply my technical knowledge and problem-solving skills while continuing to grow in technology.
+I hold a Bachelor's degree in Computing Technology and Software Development from Valencia College in the United States, with hands-on experience supporting students with Java, Python, C, C#, HTML, CSS, and MySQL. Fluent in Portuguese, English, and Spanish. I am currently seeking opportunities in Technical Support to apply my technical knowledge and problem-solving skills while continuing to grow in technology.
 
 ---
 
@@ -24,28 +22,24 @@ I hold a Bachelor's degree in Computing Technology and Software Development from
 [![](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)  
 <sub>MySQL · SQL</sub>
 
-### 🛠️ Development Tools
-[![](https://skillicons.dev/icons?i=vscode,eclipse,idea,xcode&theme=dark)](https://skillicons.dev)  
-<sub>Visual Studio Code · Eclipse · IntelliJ IDEA · Xcode</sub>
+### 🛠️ Development Environments
+[![](https://skillicons.dev/icons?i=vscode,eclipse,idea&theme=dark)](https://skillicons.dev)  
+<sub>Visual Studio Code · Eclipse · IntelliJ IDEA </sub>
 
 ### 🔄 Version Control
 [![](https://skillicons.dev/icons?i=git,github&theme=dark)](https://skillicons.dev)  
 <sub>Git · GitHub</sub>
-
-### 📚 Currently Learning
-[![](https://skillicons.dev/icons?i=js,react&theme=dark)](https://skillicons.dev)  
-<sub>JavaScript · React</sub>
 
 ---
 
 ## 💼 Professional Experience
 
 **Programming Lab Assistant I – Valencia College, USA (2019–2021)**  
-- Supported more than 100 students per semester with Java, C, C#, Python, MySQL, HTML, and CSS.  
-- Provided technical assistance with VS Code, Eclipse, IntelliJ IDEA, and Xcode.  
+- Supported more than 100 students per semester with programming in Java, C, C#, and Python, as well as MySQL, HTML, CSS, debugging, troubleshooting, and development environments.
+- Provided technical support and assistance with VS Code, Eclipse, IntelliJ IDEA, and Xcode.
 
 **Technology Lab Aide I – Valencia College, USA (2018–2019)**  
-- Supported students with Microsoft Office (Word, Excel, PowerPoint).  
+- Provided technical assistance to students using Microsoft Office (Word, Excel, PowerPoint).  
 
 **Financial Analyst – Mercosul Line - Maersk Group, Brazil (2014)**  
 - Collaborated with IT to implement new software and managed financial data for five ships.  
@@ -55,19 +49,23 @@ I hold a Bachelor's degree in Computing Technology and Software Development from
 ## 📂 Featured Projects
 
 #### [Currency Rate Tracker](https://github.com/fernandeshellen/currency-rate-tracker)  
-Python application that retrieves currency exchange rate data and stores it in a MySQL database.  
+Python application that retrieves currency exchange rate data and stores it in a MySQL database.
 `Python` `MySQL` `SQL` `CSV` `JSON`
 
+#### [Deployment GUI](https://github.com/fernandeshellen/deployment-gui)
+Java desktop application combining a graphical user interface, database integration, word-frequency analysis, client-server communication, and automated testing.
+`Java` `JavaFX` `MySQL` `JDBC` `Client-Server` `JUnit`
+
 #### [Parallel Array Sum](https://github.com/fernandeshellen/parallel-array-sum-java)  
-Java application comparing single-threaded and multithreaded approaches to summing arrays.  
+Java application comparing single-threaded and multithreaded approaches to summing arrays.
 `Java` `Multithreading` `Threads` `Parallel Processing`
 
-#### [Word Counter GUI](https://github.com/fernandeshellen/word-counter-gui)  
-Java application that reads a text file and counts word frequency via GUI.  
-`Java` `JavaFX` `Object-Oriented Programming`
+#### [Word Counter Chart](https://github.com/fernandeshellen/word-counter-chart)
+Java GUI application for text analysis, featuring word counting, chart visualization, and unit testing.
+`Java` `GUI` `JUnit` `Unit Testing`
 
-#### [Fibonacci FX](https://github.com/fernandeshellen/fibonacci-fx)  
-JavaFX application generating Fibonacci sequences via GUI.  
+#### [Word Counter GUI](https://github.com/fernandeshellen/word-counter-gui)  
+Java application that reads a text file and counts word frequency via GUI.
 `Java` `JavaFX` `Object-Oriented Programming`
 
 ---
