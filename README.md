@@ -48,25 +48,30 @@ I hold a Bachelor's degree in Computing Technology and Software Development from
 
 ## 📂 Featured Projects
 
-#### [Currency Rate Tracker](https://github.com/fernandeshellen/currency-rate-tracker)  
-Python application that retrieves currency exchange rate data and stores it in a MySQL database.
-`Python` `MySQL` `SQL` `CSV` `JSON`
-
-#### [Deployment GUI](https://github.com/fernandeshellen/deployment-gui)
+### [Deployment GUI](https://github.com/fernandeshellen/deployment-gui)
 Java desktop application combining a graphical user interface, database integration, word-frequency analysis, client-server communication, and automated testing.
-`Java` `JavaFX` `MySQL` `JDBC` `Client-Server` `JUnit`
 
-#### [Parallel Array Sum](https://github.com/fernandeshellen/parallel-array-sum-java)  
+**Java · JavaFX · MySQL · JDBC · Client-Server Architecture · JUnit**
+
+### [Currency Rate Tracker](https://github.com/fernandeshellen/currency-rate-tracker)
+Python application that retrieves currency exchange rate data and stores it in a MySQL database.
+
+**Python · MySQL · SQL · CSV · JSON**
+
+### [Parallel Array Sum](https://github.com/fernandeshellen/parallel-array-sum-java)
 Java application comparing single-threaded and multithreaded approaches to summing arrays.
-`Java` `Multithreading` `Threads` `Parallel Processing`
 
-#### [Word Counter Chart](https://github.com/fernandeshellen/word-counter-chart)
+**Java · Multithreading · Threads · Parallel Processing**
+
+### [Word Counter Chart](https://github.com/fernandeshellen/word-counter-chart)
 Java GUI application for text analysis, featuring word counting, chart visualization, and unit testing.
-`Java` `GUI` `JUnit` `Unit Testing`
 
-#### [Word Counter GUI](https://github.com/fernandeshellen/word-counter-gui)  
-Java application that reads a text file and counts word frequency via GUI.
-`Java` `JavaFX` `Object-Oriented Programming`
+**Java · GUI · JUnit · Unit Testing**
+
+### [Word Counter GUI](https://github.com/fernandeshellen/word-counter-gui)
+Java application that reads a text file and counts word frequency through a graphical user interface.
+
+**Java · JavaFX · Object-Oriented Programming**
 
 ---
 
